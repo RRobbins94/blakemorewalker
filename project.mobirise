@@ -59,7 +59,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "htmltag": "<html>",
-    "header_custom": "\n<link rel=\"stylesheet\" href=\"assets/css/customStyles.css\" />\n\n\n"
+    "header_custom": "<style>\n\nbody {\n    background-color: #eeeeee !important;\n  }\n</style>\n\n\n\n"
   },
   "pages": {
     "index.html": {
